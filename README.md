@@ -1,2 +1,2 @@
 # Double-Tennis-using-Multi-Agent
-This project is a basic understanding of a game
+This project is a basic understanding of a game of double tennis using the multiagent decision making algorithm here are some basic guidelines:The doubles tennis problem. Two actors, A and B, are playing together and can be in one of four locations: LeftBaseline, RightBaseline, LeftNet, and RightNet. The ball can be returned only if a player is in the right place. The NoOp action is a dummy, which has no effect. Note that each action must include the actor as an argument.
